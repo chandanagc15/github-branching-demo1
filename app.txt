@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Login Feature Added
+=======
+>>>>>>> feature-payment
 Login Feature Added
